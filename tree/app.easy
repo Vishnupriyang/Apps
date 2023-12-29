@@ -72,18 +72,18 @@
                                             "value_": true
                                         },
                                         "icon": {
+                                            "_id_": 19,
                                             "_type": "DrawableReference",
                                             "ref": {
+                                                "_id_": 20,
                                                 "_type": "String",
-                                                "value_": "@drawable\/page",
-                                                "_id_": 20
-                                            },
-                                            "_id_": 19
+                                                "value_": "@drawable\/page"
+                                            }
                                         },
                                         "title": {
                                             "_id_": 21,
                                             "_type": "String",
-                                            "value_": "Page 1"
+                                            "value_": "Ks Contact"
                                         },
                                         "action": {
                                             "_id_": 22,
@@ -109,18 +109,18 @@
                                             "value_": true
                                         },
                                         "icon": {
+                                            "_id_": 27,
                                             "_type": "DrawableReference",
                                             "ref": {
+                                                "_id_": 28,
                                                 "_type": "String",
-                                                "value_": "@drawable\/page",
-                                                "_id_": 28
-                                            },
-                                            "_id_": 27
+                                                "value_": "@drawable\/page"
+                                            }
                                         },
                                         "title": {
                                             "_id_": 29,
                                             "_type": "String",
-                                            "value_": "Page 2"
+                                            "value_": "Ks Telegram Official"
                                         },
                                         "action": {
                                             "_id_": 30,
@@ -146,18 +146,18 @@
                                             "value_": true
                                         },
                                         "icon": {
+                                            "_id_": 35,
                                             "_type": "DrawableReference",
                                             "ref": {
+                                                "_id_": 36,
                                                 "_type": "String",
-                                                "value_": "@drawable\/page",
-                                                "_id_": 36
-                                            },
-                                            "_id_": 35
+                                                "value_": "@drawable\/page"
+                                            }
                                         },
                                         "title": {
                                             "_id_": 37,
                                             "_type": "String",
-                                            "value_": "Page 3"
+                                            "value_": "Ks YouTube Official"
                                         },
                                         "action": {
                                             "_id_": 38,
@@ -312,7 +312,7 @@
                         "android:background": {
                             "_id_": 69,
                             "_type": "Color",
-                            "color_": -13151952
+                            "color_": -4512513
                         },
                         "android:layout_height": {
                             "_id_": 70,
@@ -348,13 +348,13 @@
                             }
                         },
                         "android:src": {
+                            "_id_": 77,
                             "_type": "DrawableReference",
                             "ref": {
+                                "_id_": 78,
                                 "_type": "String",
-                                "value_": "@drawable\/header",
-                                "_id_": 78
-                            },
-                            "_id_": 77
+                                "value_": "@drawable\/header"
+                            }
                         }
                     }
                 },
@@ -383,7 +383,7 @@
                     "android:background": {
                         "_id_": 84,
                         "_type": "Color",
-                        "color_": -15631261
+                        "color_": -16347
                     },
                     "android:theme": {
                         "_id_": 85,
@@ -438,16 +438,16 @@
                         "_id_": 96,
                         "_type": "URL",
                         "url": {
-                            "_id_": 97,
+                            "_id_": 311,
                             "_type": "String",
-                            "value_": "youtube.html"
+                            "value_": "telegram.html"
                         }
                     }
                 },
                 "background": {
                     "_id_": 98,
                     "_type": "Color",
-                    "color_": -16777216
+                    "color_": -13340
                 },
                 "name": {
                     "_id_": 99,
@@ -503,7 +503,7 @@
                 "color": {
                     "_id_": 110,
                     "_type": "Color",
-                    "color_": -1577239
+                    "color_": -1174878
                 },
                 "name": {
                     "_id_": 111,
@@ -517,7 +517,7 @@
                 "color": {
                     "_id_": 113,
                     "_type": "Color",
-                    "color_": -12367551
+                    "color_": -3322
                 },
                 "configuration": {
                     "_id_": 114,
@@ -659,25 +659,25 @@
             "background": {
                 "_id_": 144,
                 "_type": "Color",
-                "color_": -1
+                "color_": -3157249
             },
             "foreground": {
+                "_id_": 145,
                 "_type": "DrawableReference",
                 "ref": {
+                    "_id_": 146,
                     "_type": "String",
-                    "value_": "@drawable\/app_icon",
-                    "_id_": 146
-                },
-                "_id_": 145
+                    "value_": "@drawable\/app_icon"
+                }
             },
             "legacyIcon": {
+                "_id_": 147,
                 "_type": "MipmapReference",
                 "ref": {
+                    "_id_": 148,
                     "_type": "String",
-                    "value_": "@mipmap\/app_icon",
-                    "_id_": 148
-                },
-                "_id_": 147
+                    "value_": "@mipmap\/app_icon"
+                }
             }
         },
         "targetSdk": {
@@ -688,7 +688,7 @@
         "label": {
             "_id_": 150,
             "_type": "String",
-            "value_": "Navigation Drawer"
+            "value_": "Ks Hacking"
         },
         "versionName": {
             "_id_": 151,
@@ -712,8 +712,8 @@
         "packageName": {
             "_id_": 155,
             "_type": "String",
-            "value_": "com.aaappps.drawer"
+            "value_": "com.kshacking.contact"
         }
     },
-    "_abVer": 223
+    "_abVer": 224
 }
